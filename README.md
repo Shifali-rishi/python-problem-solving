@@ -19,8 +19,7 @@ A collection of Python assignment solutions covering basic, intermediate, and ad
 
 ## 🖼️ Preview
 
-![Python Assignment Screenshot](<img width="728" height="802" alt="2026-06-28" src="https://github.com/user-attachments/assets/72ab5c6b-8ee6-4a4f-910b-d62a354a5af4" />
-)
+![Python Assignment Screenshot](preview.png)
 
 ## 🛠️ Tech Stack
 - Python 3
